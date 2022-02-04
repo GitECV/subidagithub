@@ -50,3 +50,16 @@ Podemos volver utilizando los siete (7) primeros digitos del código hash
 Con git diff podemos ver de forma comparativa los ficheros con un commit diferente, como hemos usado el segundo commit, tenemos que compararlo con el primero
 
 Vemos como se comparan ambos ficheros
+
+Con esto vemos las diferencias que se han subido al stage
+
+Con este puntero podemos comparar con el commit anterior
+
+Al trabajar de forma distribuida, podemos añadir un fichero creado en otra parte de esta manera
+Con fetch vamos al repositorio local y con pull, es un fetch y merge de los archivos que tenemos también subidos al repositorio de GitHub
+Nos aparece el fichero que hemos creado en GitHub en local ahora mismo
+
+Esto que vemos aquí son las ramas
+
+Con esto podemos añadir una version que estamos creando
+Esta es la versión que estamos creando
