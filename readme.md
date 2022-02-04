@@ -44,3 +44,9 @@ Con git restore podemos reestablecer los cambios que hemos realizado
 
 De esta forma lo sacamos del area de stage y lo llevamos al area de status
 
+Vemos que ahora ha vuelto al segundo commit
+Podemos volver utilizando los siete (7) primeros digitos del código hash
+
+Con git diff podemos ver de forma comparativa los ficheros con un commit diferente, como hemos usado el segundo commit, tenemos que compararlo con el primero
+
+Vemos como se comparan ambos ficheros
